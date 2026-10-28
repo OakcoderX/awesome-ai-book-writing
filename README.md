@@ -83,6 +83,7 @@ The step nearly everyone skips and nearly everyone needs.
 
 - **[Marlowe by Authors A.I.](https://authors.ai)** - Automated developmental report covering pacing, plot structure, dialogue balance and comparable titles.
 - **[Fictionary StoryCoach](https://fictionary.co)** - Structural feedback aimed at revision rather than proofreading.
+- **[Socratic Story Cartographer](https://github.com/OakcoderX/awesome-agent-skills/tree/main/socratic-story-cartographer)** - Open-source agent skill for evidence-anchored story diagnosis using competing interpretations and small revision tests; runs in a compatible AI agent rather than a standalone editor.
 
 ## Covers and Illustration
 
